@@ -4,15 +4,13 @@
 
 <span align="center">
 
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=2965f1)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=react)&nbsp;
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 </span>
@@ -53,7 +51,7 @@ within a specified 6-day time frame.
 ✅ Vladyslav Vasyliuk - Team Leader ◼ Setting up repository and common styles ◼
 Codereview ◼ Section Header
 
-✅ Serhii Pochtovyk - Scrum Master + Creation of <span align="left"> <a href="https://trello.com/b/jzTYAdzp/money-makers">![Trello]</a> </span>
+✅ Serhii Pochtovyk - Scrum Master + Creation of <span align="left"> <a href="https://trello.com/b/jzTYAdzp/money-makers">Trello</a> </span>
 
 ✅ Mariia Hula -  ◼ Section  ◼ 
 
