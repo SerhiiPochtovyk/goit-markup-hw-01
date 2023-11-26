@@ -1,5 +1,5 @@
 <h1 align="center"> 👨‍💻 GOIT Team Project 👩‍💻 </h1>
-<h2 align="center">   Expence Tracker    </h2>
+<h2 align="center">   <a href="https://nadiyniy.github.io/money_makers/">Expence Tracker</a>   </h2>
 <h3 align="center">  Bootcamp Group 61  </h3>
 
 <span align="center">
@@ -15,9 +15,8 @@
 
 </span>
 
-<h3 align="center"> ℹ️ Money Makers <h3>
+<h3 align="center"> ℹ️ <a href="https://github.com/nadiyniy/money_makers">Money makers</a> <h3>
 <span align="center">
-
 
 <a align="center" href="https://github.com/nadiyniy">![GitHub](https://img.shields.io/badge/-Vlad-05122A?style=flat&logo=github)</a>
 <a align="center" href="https://github.com/SerhiiPochtovyk">![GitHub](https://img.shields.io/badge/-Serhii-05122A?style=flat&logo=github)</a>
@@ -25,7 +24,7 @@
 <a align="center" href="https://github.com/OlenaPobehailo">![GitHub](https://img.shields.io/badge/-Olena-05122A?style=flat&logo=github)</a>
 <a align="center" href="https://github.com/ssvitlana31">![GitHub](https://img.shields.io/badge/-Svitlana-05122A?style=flat&logo=github)</a>
 <a align="center" href="https://github.com/pinkyjohnny">![GitHub](https://img.shields.io/badge/-Daria-05122A?style=flat&logo=github)</a>
-<a align="center" href="https://github.com/Andrii-Bilyk">![GitHub](https://img.shields.io/badge/-Andrii-05122A?style=flat&logo=github)</a> 
+<a align="center" href="https://github.com/Andrii-Bilyk">![GitHub](https://img.shields.io/badge/-Andrii-05122A?style=flat&logo=github)</a>
 <a align="center" href="https://github.com/Misetr">![GitHub](https://img.shields.io/badge/-Eugenii-05122A?style=flat&logo=github)</a>
 
 </span>
@@ -51,16 +50,16 @@ within a specified 6-day time frame.
 ✅ Vladyslav Vasyliuk - Team Leader ◼ Setting up repository and common styles ◼
 Codereview ◼ Section Header
 
-✅ Serhii Pochtovyk - Scrum Master + Creation of <span align="left"> <a href="https://trello.com/b/jzTYAdzp/money-makers">Trello</a> </span>
+✅ Serhii Pochtovyk - Scrum Master + Creation of <span> <a href="https://trello.com/b/jzTYAdzp/money-makers">Trello</a> </span>
 
-✅ Mariia Hula -  ◼ Section  ◼ 
+✅ Mariia Hula - ◼ Section ◼
 
-✅ Daria Krykunova - Section  ◼ 
+✅ Daria Krykunova - Section ◼
 
-✅ Олена Побегайло - Section  ◼ 
+✅ Олена Побегайло - Section ◼
 
 ✅ Світлана - Section ◼
 
 ✅ Andrii Bilyk - Preparation and optimization of project images ◼ creation of sprite.svg file for icons
 
-✅ Eugenii Minko - 
+✅ Eugenii Minko -
