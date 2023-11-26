@@ -50,7 +50,7 @@ within a specified 6-day time frame.
 ✅ Vladyslav Vasyliuk - Team Leader ◼ Setting up repository and common styles ◼
 Codereview ◼ Section Header
 
-✅ Serhii Pochtovyk - Scrum Master + Creation of <span> <a href="https://trello.com/b/jzTYAdzp/money-makers">Trello</a> </span>
+✅ Serhii Pochtovyk - Scrum Master + Creation of <span> <a href="https://trello.com/b/jzTYAdzp/money-makers">Trello</a> </span> and PageNotFound;
 
 ✅ Mariia Hula - ◼ Section ◼
 
